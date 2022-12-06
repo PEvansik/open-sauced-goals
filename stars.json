@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "zellwk/crud-demo",
+    "stargazers_count": 145,
+    "open_issues_count": 6,
+    "forks_count": 143
+  },
+  {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 57405,
+    "stargazers_count": 57430,
     "open_issues_count": 319,
-    "forks_count": 11192
+    "forks_count": 11196
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 6061,
-    "open_issues_count": 39,
-    "forks_count": 936
+    "stargazers_count": 6097,
+    "open_issues_count": 40,
+    "forks_count": 940
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48510,
-    "open_issues_count": 257,
-    "forks_count": 12303
+    "stargazers_count": 48606,
+    "open_issues_count": 256,
+    "forks_count": 12360
   },
   {
     "full_name": "leonnoel/savage-demo",
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "john-smilga/javascript-basic-projects",
-    "stargazers_count": 2722,
+    "stargazers_count": 2730,
     "open_issues_count": 40,
-    "forks_count": 3055
+    "forks_count": 3061
   }
 ]
