@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "ensdomains/ens-avatar-fallback",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MarquisdeGeek/Zarkov",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "100devs/binary-upload-boom",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 588,
-    "forks_count": 1002
+    "forks_count": 1004
   },
   {
     "full_name": "100devs/todo-list-express",
     "stargazers_count": 97,
-    "open_issues_count": 595,
+    "open_issues_count": 596,
     "forks_count": 1037
   },
   {
     "full_name": "zellwk/crud-demo",
     "stargazers_count": 150,
     "open_issues_count": 8,
-    "forks_count": 145
+    "forks_count": 146
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 57728,
+    "stargazers_count": 57772,
     "open_issues_count": 319,
-    "forks_count": 11251
+    "forks_count": 11254
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 6475,
-    "open_issues_count": 49,
-    "forks_count": 992
+    "stargazers_count": 6502,
+    "open_issues_count": 51,
+    "forks_count": 999
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 49640,
-    "open_issues_count": 266,
-    "forks_count": 12971
+    "stargazers_count": 49807,
+    "open_issues_count": 272,
+    "forks_count": 13200
   },
   {
     "full_name": "leonnoel/savage-demo",
@@ -43,8 +55,8 @@
   },
   {
     "full_name": "john-smilga/javascript-basic-projects",
-    "stargazers_count": 2808,
+    "stargazers_count": 2816,
     "open_issues_count": 39,
-    "forks_count": 3173
+    "forks_count": 3186
   }
 ]
