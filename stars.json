@@ -19,14 +19,14 @@
   },
   {
     "full_name": "ethereumbook/ethereumbook",
-    "stargazers_count": 21517,
-    "open_issues_count": 0,
+    "stargazers_count": 21516,
+    "open_issues_count": 1,
     "forks_count": 5172
   },
   {
     "full_name": "eslint-community/eslint-plugin-security",
     "stargazers_count": 2368,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 111
   },
   {
@@ -51,7 +51,7 @@
     "full_name": "100devs/todo-list-express",
     "stargazers_count": 135,
     "open_issues_count": 737,
-    "forks_count": 1289
+    "forks_count": 1290
   },
   {
     "full_name": "zellwk/crud-demo",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 60247,
+    "stargazers_count": 60249,
     "open_issues_count": 318,
-    "forks_count": 11034
+    "forks_count": 11033
   },
   {
     "full_name": "Ileriayo/markdown-badges",
-    "stargazers_count": 16931,
+    "stargazers_count": 16943,
     "open_issues_count": 0,
-    "forks_count": 1796
+    "forks_count": 1795
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 79833,
+    "stargazers_count": 79839,
     "open_issues_count": 291,
-    "forks_count": 36412
+    "forks_count": 36562
   },
   {
     "full_name": "leonnoel/savage-demo",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "john-smilga/javascript-basic-projects",
-    "stargazers_count": 3929,
+    "stargazers_count": 3930,
     "open_issues_count": 52,
-    "forks_count": 3932
+    "forks_count": 3929
   }
 ]
